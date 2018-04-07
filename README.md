@@ -21,5 +21,8 @@ positional arguments:
   fastq       The input fastq file
   
   fastq       The output fastq file
+  
 
-**описание кода**
+На предложенных файлах test_classwork2.fastq и test_classwork3.fastq была проверена работоспособность программы, и для сравнения качества до и после применения программы, загружены рисунки FastQC отчета (quality scores across all bases): 2_input.jpeg, 2_output.jpeg, 3_input.jpeg, 3_output.jpeg.
+Видно, что среднее качество повышается.
+
